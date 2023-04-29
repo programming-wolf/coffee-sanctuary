@@ -20,6 +20,12 @@ If you have any proposals of coffee shops that I should visit, please [create an
 
 ## Düsseldorf
 ### Copenhagen Coffee Lab
+* Addresses:
+  * Berliner Allee 29, 40212 Düsseldorf ([Google Maps](https://goo.gl/maps/YkpnVNYAvkQNRhWJ6), [AppleMaps](https://maps.apple.com/?address=Berliner%20Allee%2029,%2040212%20D%C3%BCsseldorf,%20Germany&ll=51.223222,6.782331&q=Berliner%20Allee%2029))
+  * Frankenstraße 41, 40476 Düsseldorf ([Google Maps](https://goo.gl/maps/BExNtNTqgApzsDT16), [Apple Maps](https://maps.apple.com/?address=Frankenstra%C3%9Fe%2041,%2040476%20D%C3%BCsseldorf,%20Germany&ll=51.250157,6.781686&q=Frankenstra%C3%9Fe%2041))
+* Coffee: self-roasted. Very good flat white, even the decaf was tasty (which was a first). 
+* Food: All the food, both sweet and regular things, are incredible. I strongly recommend the cheese cake with raspberries. 
+* Website: http://copenhagencoffeelab.com/
 
 ## Ingolstadt
 ### District V
