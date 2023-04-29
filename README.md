@@ -14,15 +14,15 @@ If you have any proposals of coffee shops that I should visit, please [create an
 
 ## Dresden
 ### Moka Café
+* Address: Schützengasse 2, 01067 Dresden ([Google Maps](https://goo.gl/maps/e2D4xYavoAg4JmBU8), [Apple Maps](https://maps.apple.com/?address=Sch%C3%BCtzengasse%202,%2001067%20Dresden,%20Germany&ll=51.054467,13.727288&q=Sch%C3%BCtzengasse%202))
+* Coffee: _not_ self-roasted. When I was there, they had coffee from The Barn (see above) and [Manhattan Coffee Roasters](https://manhattancoffeeroasters.com). Nevertheless, it was prepared well and tasted great. 
+* Food: Amazing self made granola and cookies.
 
 ## Düsseldorf
 ### Copenhagen Coffee Lab
 
 ## Ingolstadt
 ### District V
-
-## Munich
-### 
 
 ## Nuremberg
 ### Machhörndl
