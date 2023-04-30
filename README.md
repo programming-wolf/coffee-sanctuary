@@ -40,7 +40,7 @@ They do have several (9, I believe) shops in Berlin.
 * Website: [http://copenhagencoffeelab.com/](http://copenhagencoffeelab.com/)
 
 <div style="display: flex">
-<div style="flex:50%; padding:2px"><img src="img/copenhagen_lab_01.jpeg" alt="Image of a flat white with an attempt of a swan latte art" width=4000px/>
+<div style="flex:50%; padding:2px"><img src="img/copenhagen_lab_01.jpeg" alt="Image of a flat white with an attempt of a swan latte art" width=400px/>
 </div>
 <div style="flex:50%; padding:2px"><img src="img/copenhagen_lab_02.jpeg" alt="Image of two pastries (one with chocolate and marzipan, one is a currant bun) on a turquoise plate, with a blurry background." width=400px/>
 </div>
