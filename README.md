@@ -7,10 +7,16 @@ If you have any proposals of coffee shops that I should visit, please [create an
 
 ## Berlin
 ### The Barn
-
+I actually never visited one of the cafés. However, I do have a coffee subscription for pour-over coffee with them, and most of the coffees were great. 
+They do have several (9, I believe) shops in Berlin. 
+* Coffee: self-roasted. Great coffee beans for both pour over and espresso-based drinks. 
+* Website: [https://thebarn.de](https://thebarn.de)
 
 ### Father Carpenter
-
+* Address: Münzstraße 21, 10178 Berlin ([Google Maps](https://goo.gl/maps/jDM9FEXEsEazmqqf8), [Apple Maps](https://maps.apple.com/?address=M%C3%BCnzstra%C3%9Fe%2021,%20Mitte,%2010178%20Berlin,%20Germany&ll=52.524799,13.406807&q=M%C3%BCnzstra%C3%9Fe%2021))
+* Coffee: self-roasted. I only tried espresso-based drinks. Espresso was a bit too sour for my taste, but Cappuccino and Flat White tasted amazing.
+* Food: super tasty. Recommendations are the vegan banana bread and the "Avocado", sour-dough toast with several toppings.
+* Website: [https://fathercarpenter.com](https://fathercarpenter.com)
 
 ## Dresden
 ### Moka Café
