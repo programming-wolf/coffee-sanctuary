@@ -25,10 +25,14 @@ If you have any proposals of coffee shops that I should visit, please [create an
   * Frankenstraße 41, 40476 Düsseldorf ([Google Maps](https://goo.gl/maps/BExNtNTqgApzsDT16), [Apple Maps](https://maps.apple.com/?address=Frankenstra%C3%9Fe%2041,%2040476%20D%C3%BCsseldorf,%20Germany&ll=51.250157,6.781686&q=Frankenstra%C3%9Fe%2041))
 * Coffee: self-roasted. Very good flat white, even the decaf was tasty (which was a first). 
 * Food: All the food, both sweet and regular things, are incredible. I strongly recommend the cheese cake with raspberries. 
-* Website: http://copenhagencoffeelab.com/
+* Website: [http://copenhagencoffeelab.com/](http://copenhagencoffeelab.com/)
 
 ## Ingolstadt
 ### District V
+* Address: Donaustraße 3, 85049 Ingolstadt ([Google Maps](https://goo.gl/maps/jGBwNxFWz6hbivQb8), [Apple Maps](https://maps.apple.com/?address=Donaustra%C3%9Fe%203,%2085049%20Ingolstadt,%20Germany&ll=48.761820,11.425360&q=Donaustra%C3%9Fe%203))
+* Coffee: self-roasted. Great espresso-based drinks and pour over coffee.
+* Food: Amazing food. I recommend the Bircher Müsli and franzbrötchen.
+* Website: [https://www.district-five.de](https://www.district-five.de)
 
 ## Nuremberg
 ### Machhörndl
@@ -37,7 +41,7 @@ If you have any proposals of coffee shops that I should visit, please [create an
   * Brunnengasse 7, 90402 Nürnberg ([Google Maps](https://goo.gl/maps/r7WDnJyFm2Btjwzt7), [Apple Maps](https://maps.apple.com/?address=Brunnengasse%207,%2090402%20Nuremberg,%20Germany&ll=49.450373,11.076990&q=Brunnengasse%207))
 * Coffee: self-roasted. Superb pour over coffees, great flat white.
 * Food: Tasty cakes.
-* Website: http://machhoerndl-kaffee.de/
+* Website: [http://machhoerndl-kaffee.de/](http://machhoerndl-kaffee.de/)
 
 ## Würzburg
 ### Café Fred
