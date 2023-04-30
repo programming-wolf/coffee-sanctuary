@@ -18,11 +18,16 @@ They do have several (9, I believe) shops in Berlin.
 * Food: super tasty. Recommendations are the vegan banana bread and the "Avocado", sour-dough toast with several toppings.
 * Website: [https://fathercarpenter.com](https://fathercarpenter.com)
 
+<img src="img/father_carpenter.jpeg" alt="Image of a flat white with a flower latte art in a blue cappuccino cup." width="300"/>
+
+
 ## Dresden
 ### Moka Café
 * Address: Schützengasse 2, 01067 Dresden ([Google Maps](https://goo.gl/maps/e2D4xYavoAg4JmBU8), [Apple Maps](https://maps.apple.com/?address=Sch%C3%BCtzengasse%202,%2001067%20Dresden,%20Germany&ll=51.054467,13.727288&q=Sch%C3%BCtzengasse%202))
 * Coffee: _not_ self-roasted. When I was there, they had coffee from The Barn (see above) and [Manhattan Coffee Roasters](https://manhattancoffeeroasters.com). Nevertheless, it was prepared well and tasted great. 
 * Food: Amazing self made granola and cookies.
+<img src="img/moka_cafe.jpeg" alt="Image of a flat white with a flower latte art, a cup of fresh orange juice and selfmade granola with bananas and raspberries." width="400"/>
+
 
 ## Düsseldorf
 ### Copenhagen Coffee Lab
@@ -32,6 +37,13 @@ They do have several (9, I believe) shops in Berlin.
 * Coffee: self-roasted. Very good flat white, even the decaf was tasty (which was a first). 
 * Food: All the food, both sweet and regular things, are incredible. I strongly recommend the cheese cake with raspberries. 
 * Website: [http://copenhagencoffeelab.com/](http://copenhagencoffeelab.com/)
+
+<div style="display: flex">
+<div style="flex:50%; padding:2px"><img src="img/copenhagen_lab_01.jpeg" alt="Image of a flat white with an attempt of a swan latte art" width=250px/>
+</div>
+<div style="flex:50%; padding:2px"><img src="img/copenhagen_lab_02.jpeg" alt="Image of two pastries (one with chocolate and marzipan, one is a currant bun) on a turquoise plate, with a blurry background." width=250px/>
+</div>
+</div>
 
 ## Ingolstadt
 ### District V
@@ -54,4 +66,6 @@ They do have several (9, I believe) shops in Berlin.
 * Address: Herzogenstraße 4, 97070 Würzburg ([Google Maps](https://goo.gl/maps/Ks7wnVgan7NpSyjW7), [Apple Maps](https://maps.apple.com/?address=Herzogenstra%C3%9Fe%204,%2097070%20W%C3%BCrzburg,%20Germany&ll=49.795478,9.932332&q=Herzogenstra%C3%9Fe%204))
 * Coffee: self-roasted. Flat white and cappuccino taste great.
 * Food: Display of Power regarding cakes. They are awesome.
+<img src="img/cafe_fred.jpeg" alt="Image of a flat white with a tulip latte art in a glass and a piece of lemon ricotta cake on a white plate." width="400"/>
+
 
