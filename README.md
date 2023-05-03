@@ -62,6 +62,13 @@ They do have several (9, I believe) shops in Berlin.
 * Food: Tasty cakes.
 * Website: [http://machhoerndl-kaffee.de/](http://machhoerndl-kaffee.de/)
 
+## Vienna (Austria)
+### Kaffeemodul
+* Address: Josefstädter Straße 35, 1080 Wien ([GoogleMaps](https://goo.gl/maps/pzPbgTRFAMC1NWcN6?coh=178571&entry=tt), [Apple Maps](https://maps.apple.com/?address=Josefst%C3%A4dter%20Stra%C3%9Fe%2035,%201080%20Vienna,%20Austria&ll=48.209584,16.348399&q=Josefst%C3%A4dter%20Stra%C3%9Fe%2035))
+* Coffee: sort of self-roasted. They prepare and sell Nomi coffee ([https://nomi.coffee](https://nomi.coffee)). They prepare it very well. I had two different pour over coffees, and they were great.
+* Website: [https://kaffeemodul.at](https://kaffeemodul.at)
+
+
 ## Würzburg
 ### Café Fred
 * Address: Herzogenstraße 4, 97070 Würzburg ([Google Maps](https://goo.gl/maps/Ks7wnVgan7NpSyjW7), [Apple Maps](https://maps.apple.com/?address=Herzogenstra%C3%9Fe%204,%2097070%20W%C3%BCrzburg,%20Germany&ll=49.795478,9.932332&q=Herzogenstra%C3%9Fe%204))
