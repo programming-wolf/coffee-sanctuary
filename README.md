@@ -53,6 +53,12 @@ They do have several (9, I believe) shops in Berlin.
 * Food: Amazing food. I recommend the Bircher Müsli and franzbrötchen.
 * Website: [https://www.district-five.de](https://www.district-five.de)
 
+## Mannheim
+### Café Brue
+* Address: Q7 27, 68161 Mannheim ([Google Maps](https://goo.gl/maps/xDfDoH8ZsQNZZaJy8), [Apple Maps](https://maps.apple.com/?address=Q7%2027,%2068161%20Mannheim,%20Germany&auid=14227653974416950084&ll=49.486061,8.473216&lsp=9902&q=Caf%C3%A9%20BRUE&t=m))
+* Coffee: self-roasted. Tasty espresso and amazing cold drip coffee (cold drip on the rocks).
+* Website: [https://cafebrue.de/](https://cafebrue.de/) 
+
 ## Nuremberg
 ### Machhörndl
 * Addresses:
