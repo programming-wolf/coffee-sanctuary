@@ -68,6 +68,16 @@ They do have several (9, I believe) shops in Berlin.
 * Food: Tasty cakes.
 * Website: [http://machhoerndl-kaffee.de/](http://machhoerndl-kaffee.de/)
 
+## Ribe (Denmark)
+### Terpager og Co
+* Adress: Mellemdammen 18, 6760 Ribe, Danmark ([Google Maps](https://goo.gl/maps/38EpRrfCQQDapVmHA), [Apple Maps](https://maps.apple.com/?address=Mellemdammen%2018,%206760%20Ribe,%20Denmark&auid=2494788543322183465&ll=55.329194,8.764284&lsp=9902&q=Terpager%20%26%20Co))
+* Coffee: Roasted by [La Cabra](https://www.lacabra.dk/). It's superb, one of the best coffees I had in a long time (or ever?).
+I immediately bought a pack of the coffee beans they served, asked for the beans right out of the grinder. 
+* Food: Some of the best cakes I've ever eaten. Amazing. 100% self-made, even with their own fruits from their garden.
+* Website: [https://www.terpagerogco.dk](https://www.terpagerogco.dk)
+
+<img src="img/terpager_og_co.jpeg" alt="Image of a flat white with a heart latte art in a small clay cup and a piece of apple cake with a cream topping and three blue berries, as well as salted almonds on a grey plate." width="400px"/>
+
 ## Vienna (Austria)
 ### Kaffeemodul
 * Address: Josefstädter Straße 35, 1080 Wien ([GoogleMaps](https://goo.gl/maps/pzPbgTRFAMC1NWcN6?coh=178571&entry=tt), [Apple Maps](https://maps.apple.com/?address=Josefst%C3%A4dter%20Stra%C3%9Fe%2035,%201080%20Vienna,%20Austria&ll=48.209584,16.348399&q=Josefst%C3%A4dter%20Stra%C3%9Fe%2035))
