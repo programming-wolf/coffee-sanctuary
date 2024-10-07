@@ -5,6 +5,17 @@ It's similar to all those "Awesome something" lists, but it's based on my person
 
 If you have any proposals of coffee shops that I should visit, please [create an issue for it](https://github.com/programming-wolf/coffee-sanctuary/issues/new). Should you find any mistakes regarding websites, addresses, or anything related to one of the coffee shops listed here, feel free to create a pull request. :-)
 
+## Bamberg
+### 7Hills Coffee Roasters
+I met Christian at a latte art workshop in 2016 (or 2017). It's his "fault" that I dove deeper into the whole espresso-based coffee thing. 
+I attended another workshop last year (2023), where the two of us were analysing the results of various tools and grinders with a refractometer. Amazing!
+I've never been to the cafe itself (the one time I was in Bamberg, they were closed!), but both Daniel and Christian are super kind and they know their craft. 100% recommendation!
+
+* Address: Habergasse 2, 96047 Bamberg ([Google Maps](https://maps.app.goo.gl/RioXmXQfAwtuhboq9), [Apple Maps](https://maps.apple.com/?address=Habergasse%202,%2096047%20Bamberg,%20Germany&auid=7887098254435272829&ll=49.891907,10.888495&lsp=9902&q=Seven%20Hills%20Coffee%20Roasters))
+* Coffee: self-roasted. I love their espresso beans.
+* Website [https://sevenhills.coffee](https://sevenhills.coffee)
+
+
 ## Berlin
 ### The Barn
 I actually never visited one of the cafés. However, I do have a coffee subscription for pour-over coffee with them, and most of the coffees were great. 
