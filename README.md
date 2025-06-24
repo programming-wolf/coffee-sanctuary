@@ -58,6 +58,14 @@ They do have several (9, I believe) shops in Berlin.
 </div>
 </div>
 
+## Hamburg
+### Elbgold
+They have four cafés in Hamburg, but I only visited two so far.
+* Address: Lagerstraße 34c, 20357 Hamburg ([Google Maps](https://maps.app.goo.gl/a8cfmYPsYoL2jeoc9), [Apple Maps](https://maps.apple.com/place?address=Lagerstra%C3%9Fe%2034C,%2020357%20Hamburg,%20Germany&coordinate=53.563214,9.967347&name=elbgold&place-id=I8A486F0E9A69A6A2)) and Schauenburgerstraße 50, 20095 Hamburg ([Google Maps](https://maps.app.goo.gl/piH6SUNz1KjhxmSJA), [Apple Maps](https://maps.apple.com/place?address=Schauenburgerstra%C3%9Fe%2050,%2020095%20Hamburg,%20Germany&coordinate=53.549578,9.993061&name=elbgold&place-id=I680CD6A0A17637EE))
+* Coffee: self-roasted. Very tasty pour-over coffees, I always take some beans home with me. Espresso-based drinks are also very nice. If you like Ethiopian coffee, give [BOMBE](https://www.elbgoldshop.com/products/bombe-250g-organic-espresso) a try.
+* Food: Apparently they have the best franzbrötchen of Germany, so you should try one.
+* Website: [https://www.elbgoldshop.com](https://www.elbgoldshop.com)
+
 ## Ingolstadt
 ### District V
 * Address: Donaustraße 3, 85049 Ingolstadt ([Google Maps](https://goo.gl/maps/jGBwNxFWz6hbivQb8), [Apple Maps](https://maps.apple.com/?address=Donaustra%C3%9Fe%203,%2085049%20Ingolstadt,%20Germany&ll=48.761820,11.425360&q=Donaustra%C3%9Fe%203))
