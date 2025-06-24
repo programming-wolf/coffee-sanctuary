@@ -83,6 +83,14 @@ They have four cafés in Hamburg, but I only visited two so far.
 * Food: Amazing food. I recommend the Bircher Müsli and franzbrötchen.
 * Website: [https://www.district-five.de](https://www.district-five.de)
 
+
+## Karlsruhe
+### Winter – Café
+**Attention**, they are closed on Tuesdays and Wednesdays!
+* Address: Adlerstraße 32, 76133 Karlsruhe
+* Coffee: They had coffee from [Jb Kaffee](https://www.jbkaffee.de) and two other roasteries when I was there. The staff is super kind and very passionate about coffee, every drink is prepared with love and care. Great experience.
+* Website: [https://www.winter-ka.de](https://www.winter-ka.de)
+
 ## Mannheim
 ### Café Brue
 * Address: Q7 27, 68161 Mannheim ([Google Maps](https://goo.gl/maps/xDfDoH8ZsQNZZaJy8), [Apple Maps](https://maps.apple.com/?address=Q7%2027,%2068161%20Mannheim,%20Germany&auid=14227653974416950084&ll=49.486061,8.473216&lsp=9902&q=Caf%C3%A9%20BRUE&t=m))
