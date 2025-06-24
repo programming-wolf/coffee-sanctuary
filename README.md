@@ -18,9 +18,10 @@ I've never been to the cafe itself (the one time I was in Bamberg, they were clo
 
 ## Berlin
 ### The Barn
-I actually never visited one of the cafés. However, I do have a coffee subscription for pour-over coffee with them, and most of the coffees were great. 
+I visited several of the cafés and I also had a coffee subscription for pour-over coffee with them; most of the coffees were great. 
 They do have several (9, I believe) shops in Berlin. 
-* Coffee: self-roasted. Great coffee beans for both pour over and espresso-based drinks. 
+* Coffee: self-roasted. Great coffee beans for both pour over and espresso-based drinks.
+* Food: amazing. Everything I had (mostly sweet stuff) was great!
 * Website: [https://thebarn.de](https://thebarn.de)
 
 ### Father Carpenter
