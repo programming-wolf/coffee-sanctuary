@@ -66,6 +66,16 @@ They have four cafés in Hamburg, but I only visited two so far.
 * Food: Apparently they have the best franzbrötchen of Germany, so you should try one.
 * Website: [https://www.elbgoldshop.com](https://www.elbgoldshop.com)
 
+### Marshall Street
+* Address: Schopenstehl 30, 20095 Hamburg ([Google Maps](LINK), [Apple Maps](https://maps.apple.com/place?address=Schopenstehl%2030,%2020095%20Hamburg,%20Germany&coordinate=53.548682,9.998160&name=Marshall%20Street%20Coffee%20UG&place-id=I92944D9C65D28934))
+* Coffee: self-roasted. Nice espresso-based drinks and incredible pour-over coffee. I recommend [La Ricaurte](https://www.marshall-street.de/en/produkt/colombia-finca-la-ricaurte/).  I quote from the shop's coffee description: 
+  > After the first fermentation process, the cherries are de-pulped and reintroduced into fermentation, this time in conjunction with the recovered leachate combined with strawberry juice.
+
+  Sounds absolutely weird, but tastes SOO GOOD! When they poured the coffee into the cup about three meteres away, I already had the smell of strawberries in my nose. Incredible.  
+* Food: Lovely food, I always choose Smashed Avo & Eggs.
+* Website: [https://www.marshall-street.de/](https://www.marshall-street.de/)
+
+
 ## Ingolstadt
 ### District V
 * Address: Donaustraße 3, 85049 Ingolstadt ([Google Maps](https://goo.gl/maps/jGBwNxFWz6hbivQb8), [Apple Maps](https://maps.apple.com/?address=Donaustra%C3%9Fe%203,%2085049%20Ingolstadt,%20Germany&ll=48.761820,11.425360&q=Donaustra%C3%9Fe%203))
